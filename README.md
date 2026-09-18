@@ -1,1 +1,1 @@
-# godotworldleonnguyen.github.io
+Modified Dodge the Creeps by implementing a three-heart health system. The player can survive multiple collisions instead of immediately losing after one hit. After taking damage, the player briefly flashes and receives temporary invincibility to prevent repeated damage from a single collision. The HUD was also modified to display the player's remaining health and only appears while the game is active.
